@@ -1,2 +1,4 @@
-.ipynb_checkpoints
+**/*.ipynb_checkpoints/
 .DS_Store
+lecture_2/.ipynb_checkpoints/r-checkpoint.ipynb
+lecture_2/.ipynb_checkpoints/r-checkpoint.ipynb
